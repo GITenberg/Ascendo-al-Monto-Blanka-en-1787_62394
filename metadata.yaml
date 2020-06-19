@@ -1,0 +1,46 @@
+_repo: Ascendo-al-Monto-Blanka-en-1787_62394
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Saussure, René de
+    aliases:
+    - Saussure, Rene de
+    - De Saussure, René
+    birthdate: 1868
+    deathdate: 1943
+    gutenberg_agent_id: '51926'
+    url: http://www.gutenberg.org/2009/agents/51926
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_de_Saussure
+    - https://eo.wikipedia.org/wiki/Ren%C3%A9_de_Saussure
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_de_Saussure
+creator:
+  author:
+    agent_name: Saussure, Horace Bénédict  de
+    aliases:
+    - De Saussure, Horace Bénédict
+    - Saussure, Horace Benedict  de
+    - Desaussure, Horace Bénédict
+    birthdate: 1740
+    deathdate: 1799
+    gutenberg_agent_id: '51925'
+    url: http://www.gutenberg.org/2009/agents/51925
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure
+    - https://en.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure
+description: 'Translated excerpt from: Voyages dans les Alpes.'
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62394'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountaineering -- Alps'
+- !lcc 'DQ'
+- !lcsh 'Blanc, Mont (France and Italy)'
+- GITenberg
+title: Ascendo al Monto-Blanka en 1787
+url: http://www.gutenberg.org/ebooks/62394
