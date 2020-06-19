@@ -1,5 +1,5 @@
 _repo: Ascendo-al-Monto-Blanka-en-1787_62394
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Saussure, René de
@@ -14,6 +14,9 @@ contributor:
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_de_Saussure
     - https://eo.wikipedia.org/wiki/Ren%C3%A9_de_Saussure
     - https://en.wikipedia.org/wiki/Ren%C3%A9_de_Saussure
+covers:
+- cover_type: archival
+  image_path: 62394-h/images/cover.jpg
 creator:
   author:
     agent_name: Saussure, Horace Bénédict  de
@@ -29,6 +32,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure
     - https://en.wikipedia.org/wiki/Horace_B%C3%A9n%C3%A9dict_de_Saussure
 description: 'Translated excerpt from: Voyages dans les Alpes.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62394#Ascendo-al-Monto-Blanka-en-1787
 gutenberg_issued: '2020-06-14'
 gutenberg_type: Text
 identifiers:
